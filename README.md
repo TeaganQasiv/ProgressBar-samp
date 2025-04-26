@@ -7,7 +7,7 @@ PlayerShowProgressBar(playerid, const tittle[], const message[]);
 ```
 > [!IMPORTANT]
 > - Tittle: Cria um titulo para sua progress bar.
-> - Message: Cria uma mensagem para sua progress bar.
+> - Message: Cria uma mensagem para sua progress bar. 
 
 ## Exemplo
 ```pawn
