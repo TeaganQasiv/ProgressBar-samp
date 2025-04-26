@@ -14,7 +14,7 @@ PlayerShowProgressBar(playerid, const tittle[], const message[]);
 PlayerShowProgressBar(playerid, "Exemplo", "Exemplo");
 SetTimerEx("Exemplo", 15000, false, "i", playerid); //sempre quando for criar coloque o timer em *15000*!
 
-forward Exemplo(playerid)
+forward Exemplo(playerid);
 public Exemplo(playerid)
 {
   //seu codigo
